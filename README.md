@@ -4,3 +4,4 @@
 本产品基于python2.7开发
 UI使用的pyqt4
 微信接口通过itchat调用web微信接口
+![image](http://github.com/wengshaojie/wechat/dist/0.png)
